@@ -23,7 +23,7 @@ namespace AreaTriangulo {
             double areaX = x.CalculaArea();
             double areaY = y.CalculaArea();
 
-            Console.WriteLine("As área do triângulo X é {0} e a do triângulo Y é {1}", areaX, areaY);
+            Console.WriteLine("A área do triângulo X é {0} e a do triângulo Y é {1}", areaX, areaY);
         }
     }
 }
